@@ -1,8 +1,6 @@
-C:\Users\CleavonHendrix\Downloads\Step37\src\main\java\com\in28minutes\todo\TodoController.java
-C:\Users\CleavonHendrix\Downloads\Step37\src\main\java\com\in28minutes\model\Todo.java
-C:\Users\CleavonHendrix\Downloads\Step37\src\main\java\com\in28minutes\common\LogoutController.java
-C:\Users\CleavonHendrix\Downloads\Step37\src\main\java\com\in28minutes\security\SecurityConfiguration.java
-C:\Users\CleavonHendrix\Downloads\Step37\src\main\java\com\in28minutes\todo\rest\TodoRestController.java
-C:\Users\CleavonHendrix\Downloads\Step37\src\main\java\com\in28minutes\common\ExceptionController.java
-C:\Users\CleavonHendrix\Downloads\Step37\src\main\java\com\in28minutes\welcome\WelcomeController.java
-C:\Users\CleavonHendrix\Downloads\Step37\src\main\java\com\in28minutes\todo\service\TodoService.java
+E:\Projects\Alliance Summer Bridge Program\AlayansProject\src\main\java\com\in28minutes\springmvc\LoginController.java
+E:\Projects\Alliance Summer Bridge Program\AlayansProject\src\main\java\com\in28minutes\jee\LoginService.java
+E:\Projects\Alliance Summer Bridge Program\AlayansProject\src\main\java\com\in28minutes\db\UserService.java
+E:\Projects\Alliance Summer Bridge Program\AlayansProject\src\main\java\com\in28minutes\jee\LoginServlet.java
+E:\Projects\Alliance Summer Bridge Program\AlayansProject\src\main\java\com\in28minutes\db\UserDB.java
+E:\Projects\Alliance Summer Bridge Program\AlayansProject\src\main\java\com\in28minutes\db\UserRepository.java
